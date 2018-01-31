@@ -1,2 +1,2 @@
-# assignment1
-#school work
+# assignment 2
+#Joshua D. Gonzalez
